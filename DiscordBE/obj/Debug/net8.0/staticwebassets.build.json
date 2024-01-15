@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7J1zbqgiOoZSRFVzhFz82nh540u677xS7ZjPdBv7q5E=",
+  "Source": "DiscordBE",
+  "BasePath": "_content/DiscordBE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DiscordBE.props" />
+</Project>
