@@ -24,9 +24,10 @@ C:\Users\ttanh6\Desktop\coding\discord\DiscordBE\DiscordBE\obj\Debug\net8.0\stat
 C:\Users\ttanh6\Desktop\coding\discord\DiscordBE\DiscordBE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DiscordBE.props
 C:\Users\ttanh6\Desktop\coding\discord\DiscordBE\DiscordBE\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\ttanh6\Desktop\coding\discord\DiscordBE\DiscordBE\obj\Debug\net8.0\scopedcss\bundle\DiscordBE.styles.css
-C:\Users\ttanh6\Desktop\coding\discord\DiscordBE\DiscordBE\obj\Debug\net8.0\DiscordBE.csproj.CopyComplete
 C:\Users\ttanh6\Desktop\coding\discord\DiscordBE\DiscordBE\obj\Debug\net8.0\DiscordBE.dll
 C:\Users\ttanh6\Desktop\coding\discord\DiscordBE\DiscordBE\obj\Debug\net8.0\refint\DiscordBE.dll
 C:\Users\ttanh6\Desktop\coding\discord\DiscordBE\DiscordBE\obj\Debug\net8.0\DiscordBE.pdb
 C:\Users\ttanh6\Desktop\coding\discord\DiscordBE\DiscordBE\obj\Debug\net8.0\DiscordBE.genruntimeconfig.cache
 C:\Users\ttanh6\Desktop\coding\discord\DiscordBE\DiscordBE\obj\Debug\net8.0\ref\DiscordBE.dll
+C:\Users\ttanh6\Desktop\coding\discord\DiscordBE\DiscordBE\obj\Debug\net8.0\DiscordBE.sourcelink.json
+C:\Users\ttanh6\Desktop\coding\discord\DiscordBE\DiscordBE\obj\Debug\net8.0\DiscordBE.csproj.Up2Date
